@@ -13,6 +13,7 @@
     - Le Stub fournie lé résultat au client
 
 ![resultat proxy](https://user-images.githubusercontent.com/86606579/199037708-59f3fc79-4875-4a97-88c8-ff8dca5d2ce9.JPG)
+..
 
 
 
