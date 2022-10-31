@@ -1,7 +1,7 @@
 # Part1_WebService
 ## Voilà le resultat du web service ce forme d'un fichier XML 
 ![image](https://user-images.githubusercontent.com/86606579/199036267-c992f77b-7c7b-443f-8692-581b2609d911.png)
-#tester les fonctions de la methode conversion sur l'outilis SoapUI Comme vous voyez sur le resultat suivant 
+# tester les fonctions de la methode conversion sur l'outilis SoapUI Comme vous voyez sur le resultat suivant 
 ![soap](https://user-images.githubusercontent.com/86606579/199036831-1b8c0d51-e797-40c0-b2fe-2df58844ed6a.JPG)
 # Içi on veux voir le resultats de proxy c'est le but de web services c'est connecter le code d'une machine different ou bien distance à l'aide de STub
 ## Voilà les démarche à suivre 
